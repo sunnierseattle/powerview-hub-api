@@ -421,3 +421,12 @@ username = serial, empty password — the server ignores the auth). `revision` i
 (`2.0.1056` = `0x02000420`). The server replies with `fwUrl`/`rfUrl` and MD5s, but as of 2026-11-25
 **every advertised firmware file returns 404**, for Gen 1 and Gen 2 hardware alike. A hub stays on
 whatever build it last installed, and the image cannot be downloaded for analysis.
+
+---
+
+## License
+
+© 2026 sunnierseattle. This document is licensed under
+[Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+You may share and adapt it, including commercially, as long as you give credit and link to the
+license. The full text is in [LICENSE](LICENSE).
